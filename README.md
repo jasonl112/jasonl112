@@ -1,7 +1,7 @@
 <h2> 👋 Hi I'm Jason! </h2>
 
 - 📚 Computer Science Student at The University of Texas at Dallas
-- 💠 AWS Certified [Cloud Practionier](https://cp.certmetrics.com/amazon/en/public/verify/credential/fca9329a4c99464da824a02d8ad43de4)
+- 💠 AWS Certified [Cloud Practionier]([https://cp.certmetrics.com/amazon/en/public/verify/credential/fca9329a4c99464da824a02d8ad43de4](https://www.credly.com/badges/d0144d56-c3d1-40f4-982a-0543b9be0a3c/public_url))
 - 🚀 Project Manager at [ACM](https://github.com/acm-projects)
 - 🛠️ Actively working on [SAGE](https://github.com/TheSAGEProject/SAGE) (Student Advising and Guidance Engine)
 - 💚 Passionate about Full-Stack Development and AI/ML
