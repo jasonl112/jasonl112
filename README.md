@@ -9,7 +9,11 @@
 💡 &nbsp; I'm a Computer Science student at The University of Texas at Dallas! \
 🌱 &nbsp;I'm on track for learning more about Full Stack Development, Artificial Intelligence, and Computer Vision.\
 ✍️ &nbsp;In my free time, I play basketball, videogames and cook as my hobbies.\
-📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/ajasonluu/) for more details about work experience.
+- 📚 Computer Science Student at The University of Texas at Dallas
+- 💠 AWS Certified [Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/fca9329a4c99464da824a02d8ad43de4)
+- 🚀 Project Manager at [ACM](https://github.com/acm-projects)
+- 🛠️ Actively working on [SAGE](https://github.com/TheSAGEProject/SAGE) (Student Advising and Guidance Engine)
+- 💜 Passionate about Full-Stack Development and AI/ML
 
 
 ### 🛠 &nbsp;Tech Stack
