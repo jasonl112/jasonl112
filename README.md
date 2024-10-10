@@ -6,14 +6,11 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a Computer Science student at The University of Texas at Dallas! \
-🌱 &nbsp;I'm on track for learning more about Full Stack Development, Artificial Intelligence, and Computer Vision.\
-✍️ &nbsp;In my free time, I play basketball, videogames and cook as my hobbies.\
 - 📚 Computer Science Student at The University of Texas at Dallas
-- 💠 AWS Certified [Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/fca9329a4c99464da824a02d8ad43de4)
+- 💠 AWS Certified [Cloud Practitioner](https://www.credly.com/badges/d0144d56-c3d1-40f4-982a-0543b9be0a3c/public_url)
 - 🚀 Project Manager at [ACM](https://github.com/acm-projects)
 - 🛠️ Actively working on [SAGE](https://github.com/TheSAGEProject/SAGE) (Student Advising and Guidance Engine)
-- 💜 Passionate about Full-Stack Development and AI/ML
+- 💚 Passionate about Full-Stack Development and AI/ML
 
 
 ### 🛠 &nbsp;Tech Stack
