@@ -20,7 +20,7 @@
 - 🌱 **Currently learning:** Computer vision, AWS, Advanced AI concepts, and machine learning models.
 - 🤝 **Looking to collaborate on** impactful projects focused on software solutions that make a difference.
 - 📫 **Reach me at:** [linkedin.com/ajasonluu](https://www.linkedin.com/in/ajasonluu/)
-- 💡 **Fun fact:** I love playing cooking, playing basketball, and watching K Dramas/anime.
+- 💡 **Fun fact:** I love cooking, playing basketball, and watching K Dramas/anime.
 
 ---
 
